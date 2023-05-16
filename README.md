@@ -2,7 +2,7 @@
 
 ## React, CSS, Redux, Hooks - useState
 
-### Demo - https://starwarsapi-k1vr.onrender.com
+### Demo - https://countervalue.onrender.com
 
 ---
 
