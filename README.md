@@ -1,6 +1,6 @@
 # Counter Value
 
-## React, CSS, Redux, Hooks - useState
+## React, CSS, Redux Toolkit
 
 ### Demo - https://countervalue.onrender.com
 
